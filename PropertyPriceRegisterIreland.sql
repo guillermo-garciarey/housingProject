@@ -5,7 +5,7 @@ select *
 from PropertyRegisterIreland
 
 
--- Standard Date Format
+-- Standarizing Column Date Format
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 select SALE_DATE, CONVERT(date, SALE_DATE)
@@ -21,7 +21,7 @@ Update PropertyRegisterIreland
 Set SaleDate = CONVERT(date, SALE_DATE)
 
 
---Cleaning property description
+--Cleaning Column Property Description
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 select Property_Desc, COUNT(Property_desc)
@@ -46,7 +46,7 @@ Group by PropertyType
 Order by 2 Desc
 
 
--- Cleaning property size 
+-- Cleaning Column Property Size 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Select PROPERTY_SIZE_DESC, COUNT(property_size_desc)
@@ -83,14 +83,14 @@ From PropertyRegisterIreland
 Group by Size
 
 
--- Cleaning Sale_Price
+-- Cleaning Column Sale Price
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 UPDATE PropertyRegisterIreland SET Sale_Price = ROUND(Sale_Price, 0)
 
 
--- Deleting unused columns
+-- Deleting Unused Columns
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Select *
