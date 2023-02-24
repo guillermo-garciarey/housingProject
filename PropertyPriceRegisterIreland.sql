@@ -90,7 +90,8 @@ Group by Size
 UPDATE PropertyRegisterIreland SET Sale_Price = ROUND(Sale_Price, 0)
 
 
------------------------------------------------------------------------------------- Deleting unused columns
+-- Deleting unused columns
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Select *
 From PropertyRegisterIreland
