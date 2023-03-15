@@ -9,7 +9,7 @@
   - **[2. Project Scope](#2-project-scope)**
   - **[3. Importing and describing the dataset](#3-importing-and-describing-the-dataset)**
   - **[4. Data cleaning](#4-data-cleaning)**
-  - **[5. Tableau Public](#5-tableau-public)**
+  - **[5. Tableau Public](https://public.tableau.com/app/profile/guillermo.garcia6900/viz/IrelandPropertyPriceRegister/Dashboard1)**
 
 </br>
 
@@ -268,7 +268,7 @@ DROP COLUMN PropertySize, IfVATExcluded, IfMarketPrice, PostalCode, Address
 
 ---
 
-## 5. Tableau Public
+## 5. [Tableau Public](https://public.tableau.com/app/profile/guillermo.garcia6900/viz/IrelandPropertyPriceRegister/Dashboard1)
 
 </br>
 
