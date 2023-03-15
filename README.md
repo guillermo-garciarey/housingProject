@@ -34,11 +34,11 @@
 
 </br>
 
-This is a brief exploratory data analysis using SQL for a public dataset found through [Kaggle](https://www.kaggle.com/datasets/erinkhoo/property-price-register-ireland). 
+This is a brief exploratory data analysis using SQL for a public dataset found through [**Kaggle**](https://www.kaggle.com/datasets/erinkhoo/property-price-register-ireland). 
 
 The dataset contained information about the Ireland property register prices from 2010 to 2021 and throughout this project we applied some transformation steps using SQL queries, which included text formatting, date and currency standardization, grouping of results using case statements, and removal of unused columns.
 
-After this, the data was visualized in [Tableau](https://public.tableau.com/app/profile/guillermo.garcia6900/viz/IrelandPropertyPriceRegister/Dashboard1) where the resulting information was analyzed and future predictions were made.
+After this, the data was visualized in [**Tableau**](https://public.tableau.com/app/profile/guillermo.garcia6900/viz/IrelandPropertyPriceRegister/Dashboard1) where the resulting information was analyzed and future predictions were made.
 
 The aim of this was to provide insights into the property market trends in Ireland and inform future investment decisions.
 
