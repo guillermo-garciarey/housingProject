@@ -9,7 +9,7 @@
   - **[2. Project Scope](#2-project-scope)**
   - **[3. Importing and describing the dataset](#3-importing-and-describing-the-dataset)**
   - **[4. Data cleaning](#4-data-cleaning)**
-  - **[5. Tableau](#5-tableau)**
+  - **[5. Tableau Public](#5-tableau-public)**
 
 </br>
 
@@ -21,7 +21,7 @@
 
 
 
-**SQL | Tableau**
+**SQL | Tableau Public**
 
 
 
@@ -268,7 +268,7 @@ DROP COLUMN PropertySize, IfVATExcluded, IfMarketPrice, PostalCode, Address
 
 ---
 
-## 5. Tableau
+## 5. Tableau Public
 
 </br>
 
