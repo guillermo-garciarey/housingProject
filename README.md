@@ -21,7 +21,7 @@
 
 
 
-<strong>SQL | Tableau
+**SQL | Tableau**
 
 
 
