@@ -1,7 +1,7 @@
 # EDA using SQL of the Irish Property Register
 
 
----
+## Table of Contents
 
 </br>
 
