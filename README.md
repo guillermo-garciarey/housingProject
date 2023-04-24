@@ -14,6 +14,7 @@
 </br>
 
 ---
+</br>
 
 ## 1. Tools
 
@@ -29,6 +30,7 @@
 </br>
 
 ---
+</br>
 
 ## 2. Project Scope
 
@@ -104,6 +106,7 @@ Wherever possible it is a good idea to simplify as much as possible provided you
 </br>
 
 ---
+</br>
 
 ## 4. Data cleaning
 
@@ -267,6 +270,7 @@ DROP COLUMN PropertySize, IfVATExcluded, IfMarketPrice, PostalCode, Address
 
 
 ---
+</br>
 
 ## 5. [Tableau Public](https://public.tableau.com/app/profile/guillermo.garcia6900/viz/IrelandPropertyPriceRegister/Dashboard1)
 
